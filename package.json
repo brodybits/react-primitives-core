@@ -1,6 +1,6 @@
 {
   "name": "react-primitives-core",
-  "version": "0.0.1",
+  "version": "0.0.2-dev",
   "description": "Core set of primitive components and style objects for react-native-web and react-native",
   "main": "index.js",
   "author": "Christopher J. Brody <chris@brody.consulting>",
