@@ -1,0 +1,25 @@
+{
+  "name": "react-primitives-core",
+  "version": "0.0.1-dev",
+  "description": "Core set of primitive components and style objects for react-native-web and react-native",
+  "main": "index.js",
+  "author": "Christopher J. Brody <chris@brody.consulting>",
+  "license": "MIT",
+  "homepage": "https://github.com/brodybits/react-primitives-core#readme",
+  "repository": "github:brodybits/react-primitives-core",
+  "dependencies": {
+    "object.omit": "^3.0.0",
+    "react-universal-xp": "^0.0.1"
+  },
+  "peerDependencies": {
+    "react": ">= 16.5.0",
+    "react-dom": ">= 16.5.0",
+    "react-native-web": ">= 0.11.0"
+  },
+  "devDependencies": {
+    "react": "~16.5.2",
+    "react-dom": "~16.5.2",
+    "react-native": "^0.57.8",
+    "react-native-web": "^0.11.2"
+  }
+}
